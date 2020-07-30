@@ -1,0 +1,13 @@
+﻿Discipline IDs:
+
+0 - Portugues - "por"
+1 - Física - "fis"
+2 - Química - "qui"
+3 - Matemática - "mat"
+4 - Literatura - "lit"
+5 - Geografia - "geo"
+6 - Estudos Sociais - "soc"
+7 - História - "his"
+8 - Inglês - "ing"
+9 - Biologia - "bio"
+10 - Artes - "art"
