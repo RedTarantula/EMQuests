@@ -7,9 +7,9 @@
             "abrev": "test1",
             "lastAnsweredQuestion": 0,
             "correctAnswers": 0,
-            "averagescore": 0,
-            "bestscore": 0,
-            "timesAnswered": 1
+            "averagescore": 8,
+            "bestscore": 16,
+            "timesAnswered": 2
         },
         {
             "id": 1,
@@ -29,9 +29,9 @@
             "abrev": "test1",
             "lastAnsweredQuestion": 0,
             "correctAnswers": 0,
-            "averagescore": 0,
-            "bestscore": 0,
-            "timesAnswered": 0
+            "averagescore": 16,
+            "bestscore": 16,
+            "timesAnswered": 1
         },
         {
             "id": 3,
